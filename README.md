@@ -38,6 +38,7 @@ Each topic includes examples, explanations, and practice code.
 - Defining and calling methods  
 - Parameters and return types  
 - Method overloading  
+- Function Basic Examples
 
 ---
 
