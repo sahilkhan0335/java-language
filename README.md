@@ -39,6 +39,7 @@ Each topic includes examples, explanations, and practice code.
 - Parameters and return types  
 - Method overloading  
 - Function Basic Examples
+- Added Advanced Patterns Questions
 
 ---
 
