@@ -38,15 +38,24 @@ Each topic includes examples, explanations, and practice code.
 - Defining and calling methods  
 - Parameters and return types  
 - Method overloading  
-- Function Basic Examples
-- Added Advanced Patterns Questions
+- Function basic examples  
+- Added advanced pattern questions  
+
+---
+
+### 📊 4. Arrays
+- Introduction to Arrays  
+- Searching algorithms:
+  - Linear Search  
+  - Binary Search  
 
 ---
 
 ## 🧑‍💻 How to Run
+
 1. Install [JDK](https://www.oracle.com/java/technologies/downloads/).  
 2. Use any IDE (VS Code, IntelliJ IDEA, Eclipse) or terminal.  
-3. Compile and run:
+3. Compile and run your Java file:
    ```bash
    javac FileName.java
    java FileName
