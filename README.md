@@ -1,4 +1,4 @@
-# ☕ Java Learning Journey — From Basics to Advanced
+#   Java Learning Journey — From Basics to Advanced
 
 Welcome to my **Java Learning Repository**!  
 This repository documents my journey of learning **Java programming**, starting from the very basics and progressing toward **advanced concepts**.  
@@ -6,9 +6,9 @@ Each topic includes examples, explanations, and practice code.
 
 ---
 
-## 📘 Table of Contents
+##   Table of Contents
 
-### 🧩 1. Java Basics
+###   1. Java Basics
 - Introduction to Java  
 - Setting up JDK and IDE (VS Code / IntelliJ / Eclipse)  
 - Java Program Structure  
@@ -23,7 +23,7 @@ Each topic includes examples, explanations, and practice code.
 
 ---
 
-### 🧠 2. Control Flow Statements
+###   2. Control Flow Statements
 - `if`, `else if`, `else`  
 - `switch` statement  
 - Loops:
@@ -34,7 +34,7 @@ Each topic includes examples, explanations, and practice code.
 
 ---
 
-### 🧰 3. Methods and Functions
+###   3. Methods and Functions
 - Defining and calling methods  
 - Parameters and return types  
 - Method overloading  
@@ -43,7 +43,7 @@ Each topic includes examples, explanations, and practice code.
 
 ---
 
-### 📊 4. Arrays
+###   4. Arrays
 - Introduction to Arrays  
 - Searching algorithms:
   - Linear Search  
@@ -51,7 +51,7 @@ Each topic includes examples, explanations, and practice code.
 
 ---
 
-## 🧑‍💻 How to Run
+##   How to Run
 
 1. Install [JDK](https://www.oracle.com/java/technologies/downloads/).  
 2. Use any IDE (VS Code, IntelliJ IDEA, Eclipse) or terminal.  
