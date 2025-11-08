@@ -45,7 +45,9 @@ Each topic includes examples, explanations, and practice code.
 
 ###   4. Arrays
 - Introduction to Arrays  
-- Searching algorithms:
+- Array Examples and Practice Programs  
+- Subarray Concepts (Maximum/Minimum Subarray, Kadane’s Algorithm)  
+- Searching Algorithms:
   - Linear Search  
   - Binary Search  
 
