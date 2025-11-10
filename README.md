@@ -53,6 +53,14 @@ Each topic includes examples, explanations, and practice code.
 
 ---
 
+
+###  5. Sorting Algorithms
+- Introduction to Sorting 
+- Sorting Examples and Practice Programs  
+- Bubble Sort 
+- Selection Sort
+
+
 ##   How to Run
 
 1. Install [JDK](https://www.oracle.com/java/technologies/downloads/).  
