@@ -59,6 +59,9 @@ Each topic includes examples, explanations, and practice code.
 - Sorting Examples and Practice Programs  
 - Bubble Sort 
 - Selection Sort
+- Insertion Sort
+- Inbuild In Java Sort
+- Count Sort
 
 
 ##   How to Run
